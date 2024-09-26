@@ -10,4 +10,4 @@ Objectives Achieved:
 - Developed a segmentation model to group customers into distinct segments based on sales trends, Purchasing pattern,and demographics.
 - Provided actionable insights and recommendations for marketing strategies based on the customer segments identified.
 # Conclusion:
-The segmentation model successfully identified customer groups with distinct characteristics, offering valuable insights for the marketing team. The findings can help in developing personalized marketing campaigns, improving customer engagement, and enhancing overall business strategy.
+The segmentation model successfully identified customer groups with distinct characteristics, offering valuable insights for the marketing team. 
