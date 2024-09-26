@@ -1,7 +1,7 @@
 # Customer_Segmentation_Analysis
 
 # Objective:
-Develop a data-driven customer segmentation model to help the marketing team tailor their strategies based on different customer segments.
+Developed a data-driven customer segmentation model to help the marketing team tailor their strategies based on different customer segments.
 
 # Project Overview:
 This project provides a comprehensive analysis of customer segmentation using machine learning techniques. The objective was to develop a model that segments customers based on sales trends, Purchasing pattern,and demographics allowing for more targeted marketing strategies. The project utilizes the Customer Personality Analysis dataset from Kaggle. The project utilizes the online retail dataset from Kaggle.
